@@ -19,15 +19,15 @@ flag developer
 
 flag with-fix40
   description: add fix40 to the module
-  default: True
+  default: False
 
 flag with-fix41
   description: add fix41 to the module
-  default: True
+  default: False
 
 flag with-fix42
   description: add fix42 to the module
-  default: True
+  default: False
 
 flag with-fix43
   description: add fix43 to the module. It takes a long time to compile!
